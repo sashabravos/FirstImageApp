@@ -1,1 +1,1 @@
-# I-am-poor-app
+# Simple app with a couple of images
